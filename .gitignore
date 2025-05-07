@@ -19,3 +19,9 @@ venv/
 
 # Secret config or API tokens
 *.env
+
+# Ignore Obsidian config
+.obsidian/
+
+# Ignore Obsidian vault
+/BSP2 Notes/
