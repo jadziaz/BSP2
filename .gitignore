@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# VS Code settings
+.vscode/
+
+# Conda / virtual environments
+env/
+venv/
+.bsp2*
+.conda/
+
+# Mac system files
+.DS_Store
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# Secret config or API tokens
+*.env
